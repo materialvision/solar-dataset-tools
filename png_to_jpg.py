@@ -43,6 +43,6 @@ def convert_png_to_jpg(source_folder, target_folder, quality=95):
     print(f'All PNG images from {source_folder} have been converted to high-quality JPG images in {target_folder}.')
 
 # Example usage
-source_folder = '/Volumes/Solardisk/sunplanet/010224-over-ekeberg/timelapse-overekeberg/SF_crop_contrast_train'
-target_folder = '/Volumes/Solardisk/sunplanet/010224-over-ekeberg/timelapse-overekeberg/trainA'
+source_folder = '/Volumes/Solardisk/sunplanet/230124-15sek23januar/ser-timelapses-15sek-400/SF-toAI'
+target_folder = '/Volumes/Solardisk/sunplanet/230124-15sek23januar/ser-timelapses-15sek-400/SF-toAIjpg'
 convert_png_to_jpg(source_folder, target_folder)

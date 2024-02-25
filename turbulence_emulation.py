@@ -123,3 +123,4 @@ if __name__ == "__main__":
 #python turbulence_emulation.py /Users/espensommereide/Developer/solar-dataset/solar-big-bear-black /Users/espensommereide/Developer/solar-dataset/solar-big-bear-black-tiles-blur --enable_blur --tile --colorize --max_tiles 5000
 #python turbulence_emulation.py /Users/espensommereide/Developer/solar-dataset/solar-big-bear-color-blur /Users/espensommereide/Developer/solar-dataset/solar-big-bear-black-blurx2 --enable_blur
 #python turbulence_emulation.py /Users/espensommereide/Developer/solar-dataset/solar-big-bear-black /Users/espensommereide/Developer/solar-dataset/solar-big-bear-black-blur --enable_blur
+#python turbulence_emulation.py /Users/espensommereide/Developer/solar-dataset/solar-suntrast-one-tiles /Users/espensommereide/Developer/solar-dataset/solar-suntrast-one-tiles -tile --colorize
